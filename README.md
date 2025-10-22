@@ -11,7 +11,7 @@ Identify and document phishing characteristics in a suspicious email sample by e
 
 ## 1. Phishing Email Sample
 
-![phishing.example-1.jpg](phishing.example-1.jpg)
+![phishing.example-1.jpg](./screenshots/phishing.example-1.jpg)
 
 **Key Indicators:**
 - **Urgency:** "URGENT" in subject and message pushes the reader to act quickly.
@@ -24,7 +24,7 @@ Identify and document phishing characteristics in a suspicious email sample by e
 
 ## 2. Email Header Analysis
 
-![header.analysis.jpg](header.analysis.jpg)
+![header.analysis.jpg](./screenshots/header.analysis.jpg)
 
 **Key Findings:**
 - **Return-Path Spoofing:** Return path set to `hacker@iitk.ac.in`, indicating sender spoofing.
